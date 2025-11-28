@@ -116,10 +116,11 @@ kubectl apply -f loadbalancer-service.yaml
 ```
 To delete the cluster use below command
 ```
-gcloud container clusters delete veera--zone us-central1-a
+gcloud container clusters delete veera --zone us-central1-a
 ```
 
 ---
+
 
 
 
